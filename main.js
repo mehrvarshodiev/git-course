@@ -1,0 +1,1 @@
+let course = "Git Course";
